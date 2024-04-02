@@ -151,7 +151,7 @@ void displayJKishoreKumar() {
     cout << "\033[1;36mH";
     cout << "\033[1;31mO";
     cout << "\033[1;33mR";
-    cout << "\033[1;32m";
+    cout << "\033[1;32mE";
     cout << " ";
     cout << "\033[1;34mK";
     cout << "\033[1;35mU";
